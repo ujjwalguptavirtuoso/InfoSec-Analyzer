@@ -18,7 +18,7 @@
     ```
 2. Navigate to the project directory:
     ```bash
-    cd InfoSecAnalyzer
+    cd InfoSec-Analyzer
     ```
 
 ## Usage:
