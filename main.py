@@ -14,4 +14,4 @@ def main(file_path):
     print(report)
 
 if __name__ == "__main__":
-    main("../complex_file.txt")
+    main("patterns.txt")
