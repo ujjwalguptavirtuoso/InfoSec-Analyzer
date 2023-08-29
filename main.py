@@ -14,4 +14,4 @@ def main(file_path):
     print(report)
 
 if __name__ == "__main__":
-    main("/Users/u0g00bw/Downloads/simple_file.txt")
+    main("../complex_file.txt")
