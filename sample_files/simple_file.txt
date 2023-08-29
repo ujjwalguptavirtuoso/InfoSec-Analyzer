@@ -1,0 +1,7 @@
+
+API_KEY = "ABC123DEFG456"
+eval("print('Hello World')")
+config = {
+    "CORS": "*",
+    "DEBUG": True
+}

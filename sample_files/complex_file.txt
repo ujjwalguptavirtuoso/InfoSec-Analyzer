@@ -1,0 +1,21 @@
+
+from math import sqrt
+
+def compute_root(x):
+    return sqrt(x)
+
+def get_data():
+    data = {
+        "id": "XYZ789",
+        "value": 12345
+    }
+    return data
+
+configurations = {
+    "CORS": "specific-domain.com",
+    "DEBUG": False,
+    "API_ENDPOINT": "https://api.endpoint.com",
+    "SECRET": "hjYU78jkKLO90pl"
+}
+
+eval("compute_root(9)")
